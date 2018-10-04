@@ -10,7 +10,7 @@
     "url": "https://github.com/njam3"
   },
   "dependencies": {
-    "exif-js": "^2.1.1"
+    "exif-js": "2.3.0"
   },
   "devDependencies": {},
   "scripts": {

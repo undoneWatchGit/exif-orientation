@@ -1,5 +1,5 @@
 'use strict';
-var EXIF = require('exif-js');
+var EXIF = require('./exif-js');
 var orientations = [
   { scale: {x: 1, y: 1}, rotate: 0 },
   { scale: {x: 1, y: 1}, rotate: 0 },
